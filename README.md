@@ -28,7 +28,7 @@ Reference: [Creating a Telegram bot](https://core.telegram.org/bots#6-botfather)
 2. Enter the main repository: `cd slf23-telebot` (if haven't done so)
 3. **(Optional but recommended)** Create a virtual environment
     - `pip install virtualenv`
-    - `pip -m venv venv`
+    - `python -m venv venv`
     - (Windows) `venv\Scripts\activate`  
     (MacOS/Linux) `source venv/bin/activate`
 4. `pip install -r requirements.txt`
