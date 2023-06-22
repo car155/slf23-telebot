@@ -1,0 +1,8 @@
+# env variables
+.env
+
+# to be deleted
+temp.txt
+
+# cache
+__pycache__/

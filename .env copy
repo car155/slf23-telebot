@@ -1,0 +1,8 @@
+BOT_TOKEN=110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw
+PROJECT_ID=xxx
+PRIVATE_KEY_ID=92e705df3bec7e5a6f7f3b928bdf8b870d916280
+PRIVATE_KEY=... # without -----BEGIN PRIVATE KEY----- and -----END PRIVATE KEY-----\n, put them in '' as well
+CLIENT_EMAIL=xxx@xxxx.iam.gserviceaccount.com
+CLIENT_ID=114923329371738492284
+CERT_URL=https://www.googleapis.com/robot/v1/metadata/x509/xxx.iam.gserviceaccount.com
+SPREADSHEET_URL=https://docs.google.com/spreadsheets/d/1M82bxY_kgvPSRi7290nv82m-11IrrJ0QmoL73bncRLQkk/edit#gid=0
