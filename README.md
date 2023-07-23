@@ -24,7 +24,7 @@ Reference: [Creating a Telegram bot](https://core.telegram.org/bots#6-botfather)
 
 ### 3. Downloading dependencies
 
-1. `git clone git@github.com:yyj-02/slf-telegram-bot.git`
+1. `git clone git@github.com:car155/slf23-telebot.git `
 2. Enter the main repository: `cd slf23-telebot` (if haven't done so)
 3. **(Optional but recommended)** Create a virtual environment
     - `pip install virtualenv`
