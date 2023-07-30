@@ -27,8 +27,6 @@ from telegram.ext import (
     CallbackContext,
 )
 
-# test test test
-
 load_dotenv()
 
 # Enable logging
